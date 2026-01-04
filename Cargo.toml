@@ -1,0 +1,9 @@
+[package]
+name = "Tetris_game_in_Rust"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+piston_window = "0.130.0"
+rodio = "0.17.3"
+rand ="0.8.5"
